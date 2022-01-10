@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="Test" />
+    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -125,7 +127,8 @@
       <workItem from="1641587612473" duration="32000" />
       <workItem from="1641596747721" duration="2265000" />
       <workItem from="1641640380249" duration="39000" />
-      <workItem from="1641809156285" duration="3538000" />
+      <workItem from="1641809156285" duration="3710000" />
+      <workItem from="1641830076487" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="completed dz 1-4">
       <created>1641386725409</created>
@@ -169,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641812692757</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test">
+      <created>1641812817729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641812817729</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
