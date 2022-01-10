@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="completed d 5">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/../../exam/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam/src/Component/Conteinerchange.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/src/Component/Conteinerchange.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exam" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -127,7 +128,7 @@
       <workItem from="1641587612473" duration="32000" />
       <workItem from="1641596747721" duration="2265000" />
       <workItem from="1641640380249" duration="39000" />
-      <workItem from="1641809156285" duration="2476000" />
+      <workItem from="1641809156285" duration="3156000" />
     </task>
     <task id="LOCAL-00001" summary="completed dz 1-4">
       <created>1641386725409</created>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641810769886</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test">
+      <created>1641811737031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641811737031</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +228,7 @@
     <MESSAGE value="completed dz 1-4" />
     <MESSAGE value="completed dz 5" />
     <MESSAGE value="completed d 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed d 5" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
