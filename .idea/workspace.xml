@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="Test">
-      <change beforePath="$PROJECT_DIR$/../../exam/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exam/src/Component/Conteinerchange.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam/src/Component/Conteinerchange.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="293c8efd-378f-4482-b876-1da5c37786bf" name="Changes" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,7 @@
       <workItem from="1641587612473" duration="32000" />
       <workItem from="1641596747721" duration="2265000" />
       <workItem from="1641640380249" duration="39000" />
-      <workItem from="1641809156285" duration="3156000" />
+      <workItem from="1641809156285" duration="3538000" />
     </task>
     <task id="LOCAL-00001" summary="completed dz 1-4">
       <created>1641386725409</created>
@@ -165,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641811737031</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1641812692757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641812692757</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
